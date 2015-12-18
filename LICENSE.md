@@ -1,4 +1,4 @@
-Copyright (c) 2015, CaiGeng Yang Jeremy Leonard
+Copyright (c) 2015, CaiGeng Yang
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
